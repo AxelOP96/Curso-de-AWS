@@ -189,6 +189,20 @@ encontrar la información más relevante para sus necesidades.
 
 Modulo 1:
 
+La informatica en la nube es la entrega bajo demanda de potencia de computo, bases de datos, almacenamiento, aplicaciones y otros recursos de TI, a traves de internet con un
+sistema de precios de pago por uso.
+Estos recursos se pueden utilizar como bloques de creacion para crear soluciones que lo ayuden con objetivos empresariales y a cumplir los requisitos tecnologicos.
+La informatica en la nube permite dejar de considerar la infraestructura como hardware y en cambio verla (y usarla) como software
+En el modelo de informatica tradicional la infraestructura era tomada como hardware, las soluciones de hardware requieren espacio, personal, seguridad, planificacion e inversion
+de capital, tienen un ciclo largo de adquisiscion de hardware y le exigen aprovisionar capacidad mediante la prediccion de los picos maximos teoricos.
+el modelo de informatica en la nube implementa La infraestructura como software, en ella las soluciones de software son flexibles, pueden cambiar de forma mas rapida, sencilla
+y rentable que las soluciones de hardware y eliminan las tareas pesadas innecesarias.
+Existen 3 modelos de servicio en la nube: IaaS (infraestructura como servicio), Paas(plataforma como servicio) y SaaS(software como servicio).
+Existen 3 modelos de implementacion informatica en la nube: aplicacion en la nube, hibrido e infraestructura local(nube privada).
+Ventajas:
+permite sustituir la inversion de capital por gastos variables(se paga solo por lo que se consume), aprovechar economias de escalas masivas(para obtener un costo variable mas
+bajo y ahorrar), permite dejar de adivinar la capacidad(evita asumir estimaciones sobre capacidad), aumenta la velocidad y agilidad, permite dejar de gastar dinero en la
+ejecucion y el mantenimiento de centros de datos y permite el alcance mundial en minutos. 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
